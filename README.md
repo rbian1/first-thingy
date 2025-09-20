@@ -1,2 +1,3 @@
 # first-thingy
-idk
+idk<br>
+random snippets of things
