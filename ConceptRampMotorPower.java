@@ -53,7 +53,7 @@ import org.firstinspires.ftc.robotcore.external.Telemetry;
  */
 @TeleOp(name = "Motor Speed with Velocity", group = "Concept")
 @Config
-public class ConceptRampMotorSpeed extends LinearOpMode {
+public class ConceptRampMotorPower extends LinearOpMode {
 
     public static double VELOCITY_1 = 0.8;
     public static double VELOCITY_2 = 0.6;
